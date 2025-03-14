@@ -36,7 +36,6 @@ This report provides **actionable insights** that help call centers:
 
 ## 📂 Project Files  
 - **QafzaTrainingProject.pbix** – The Power BI file containing all reports.  
-- **Screenshots/** – Sample images of the dashboards.  
 - **README.md** – This documentation file.  
 
 ## 💡 How to Use  
